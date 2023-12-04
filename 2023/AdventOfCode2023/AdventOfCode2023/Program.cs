@@ -7,7 +7,7 @@ namespace AdventOfCode2023
     {
         static void Main(string[] args)
         {
-            var solution = new Day2();
+            var solution = new Day3();
             solution.Run();
         }
     }
